@@ -1,7 +1,7 @@
 import React,{Component} from 'react'
 import './App.css'
 import {FaPlus,FaTrash} from 'react-icons/fa'
-import api from './services/api'
+import api from './service/api'
 
 export default class App extends Component {
 
